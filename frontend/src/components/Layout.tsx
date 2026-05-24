@@ -140,7 +140,6 @@ export default function Layout() {
 
         <header className="sticky top-0 z-30 flex items-center justify-end gap-2 px-4 md:px-8 py-3 bg-white/70 dark:bg-gray-900/70 backdrop-blur-xl border-b border-white/10 shadow-sm">
           <NotificationBell />
-          <ThemeToggle />
         </header>
 
         <main className="p-4 md:p-8 min-h-screen bg-gray-50 dark:bg-gray-900 transition-colors duration-200">
